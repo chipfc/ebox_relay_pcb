@@ -1,5 +1,38 @@
-/History
+### Altium ###
+**/History
+**/\_\_Previews
+**/Log
+**/Logs
+
 *.PrjPcbStructure
-/\_\_Previews
-/Logs
-/Outputs
+
+Status Report.Txt
+
+*.htm
+*.html
+
+# main gerber
+FK9KUBJZ.*
+FK9KUBJZ-*.*
+# 4g gerber
+R942R9Z6.*
+R942R9Z6-*.*
+# led gerber
+3MMK5MJ6.*
+3MMK5MJ6-*.*
+# relay gerber
+JD3SRPCM.*
+JD3SRPCM-*.*
+
+### os ###
+.DS_Store
+[Dd]esktop.ini
+Thumbs.db
+
+### vscode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
