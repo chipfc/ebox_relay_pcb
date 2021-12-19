@@ -123,12 +123,12 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Hash
-Value=JD3SRPCM
+Name=Version
+Value=3.0
 
 [Parameter2]
-Name=Version
-Value=2.1
+Name=Hash
+Value=JD3SRPCM
 
 [Configuration1]
 Name=Default Configuration

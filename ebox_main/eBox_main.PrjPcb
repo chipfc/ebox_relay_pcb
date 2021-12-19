@@ -225,12 +225,12 @@ GenerateClassCluster=0
 DocumentUniqueId=GWPNHCHJ
 
 [Parameter1]
-Name=Version
-Value=3.0
-
-[Parameter2]
 Name=Hash
 Value=FK9KUBJZ
+
+[Parameter2]
+Name=Version
+Value=3.0
 
 [Configuration1]
 Name=Default Configuration
