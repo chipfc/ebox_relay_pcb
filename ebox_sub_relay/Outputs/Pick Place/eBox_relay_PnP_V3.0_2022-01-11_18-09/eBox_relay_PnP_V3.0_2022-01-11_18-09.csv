@@ -1,0 +1,44 @@
+Altium Designer Pick and Place Locations
+C:\Users\thanh\work\pcb\ebox_pcb\ebox_sub_relay\Outputs\Pick Place\eBox_relay_PnP_V3.0_2022-01-11_18-09\eBox_relay_PnP_V3.0_2022-01-11_18-09.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       11/01/22
+Time:       18:09
+Revision:   dc51f4b66a3d339b58092cef81df993806baa7a8
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"T303","R1.25-3.5S","BottomLayer","R1.25-3.5S","6,0000","45,0000","180","R1.25-3.5S"
+"RL304","SLA-xxVDC-SL-C","TopLayer","RL_SPDT_30A","25,3500","29,5000","90","SLA-xxVDC-SL-C"
+"RL303","SLA-xxVDC-SL-C","TopLayer","RL_SPDT_30A","58,3500","29,5000","90","SLA-xxVDC-SL-C"
+"S302","TA20-100","TopLayer","TA20-100","25,7500","80,5000","0",""
+"S301","TA20-100","TopLayer","TA20-100","58,7500","80,5000","0",""
+"T302","R1.25-3.5S","BottomLayer","R1.25-3.5S","6,0000","5,0000","180","R1.25-3.5S"
+"T301","R1.25-3.5S","BottomLayer","R1.25-3.5S","6,0000","25,0000","180","R1.25-3.5S"
+"P304","Header 8X2","BottomLayer","HDR/HEADER/16/DL/EDGE","6,7500","74,6100","270","Header, 8-Pin, Dual row"
+"P303","Header 2","TopLayer","HDR/Terminal/2/KF55C-10","42,7500","7,7500","180","Header, 2-Pin"
+"RL302","Relay SPDT","TopLayer","RL_SPDT_MIX","20,3000","27,2500","270","Relay SPDT"
+"RL301","Relay SPDT","TopLayer","RL_SPDT_MIX","53,3000","27,2500","270","Relay SPDT"
+"S312","TA17","TopLayer","TA17","25,7500","78,5000","180",""
+"S311","TA17","TopLayer","TA17","58,7500","78,5000","180",""
+"S310","NA","TopLayer","TA12","25,7500","77,5000","180","CURR SENSE 1:2000 5A T/H"
+"S309","TA12-200","TopLayer","TA12","58,7500","77,5000","180","CURR SENSE 1:2000 5A T/H"
+"R350","100K","BottomLayer","R_1206","16,5359","14,0000","270","RES SMD 10K OHM 5% 1/4W 1206"
+"R349","100K","BottomLayer","R_1206","14,0000","14,0000","90","RES SMD 10K OHM 5% 1/4W 1206"
+"R348","100K","BottomLayer","R_1206","11,5000","14,0000","270","RES SMD 10K OHM 5% 1/4W 1206"
+"R347","100K","BottomLayer","R_1206","58,7500","14,0000","90","RES SMD 10K OHM 5% 1/4W 1206"
+"R346","100K","BottomLayer","R_1206","61,2500","14,0000","270","RES SMD 10K OHM 5% 1/4W 1206"
+"R345","100K","BottomLayer","R_1206","63,7500","14,0000","90","RES SMD 10K OHM 5% 1/4W 1206"
+"R320","100R","BottomLayer","R_0603","25,7500","79,0000","360","RES SMD 100 OHM 1% 1/10W 0805"
+"R319","4.7K","BottomLayer","R_0603","19,0000","66,0000","270","RES SMD 4.7K OHM 1% 1/10W 0805"
+"R318","100R","BottomLayer","R_0603","58,7500","79,0000","360","RES SMD 100 OHM 1% 1/10W 0805"
+"R317","4.7K","BottomLayer","R_0603","52,0000","66,0000","270","RES SMD 4.7K OHM 1% 1/10W 0805"
+"F310","Fuse","TopLayer","FUSE_2_DIP_0520_BOX","36,0000","52,5000","90","Fuse"
+"F309","Fuse","TopLayer","FUSE_2_DIP_0520_BOX","69,0000","52,5000","90","Fuse"
+"D320","SS14","BottomLayer","DO-214AC_(SMA)_L","30,0000","30,0000","270","DIODE SCHOTTKY 40V 1A SMA"
+"D319","Led","TopLayer","LED_3MM_-_green","16,5000","66,0000","90","LED RED CLEAR 0805 SMD"
+"D318","SS14","BottomLayer","DO-214AC_(SMA)_L","63,0000","30,0000","270","DIODE SCHOTTKY 40V 1A SMA"
+"D317","Led","TopLayer","LED_3MM_-_green","49,5000","66,0000","90","LED RED CLEAR 0805 SMD"

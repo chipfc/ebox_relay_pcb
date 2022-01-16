@@ -1,0 +1,17 @@
+Designator,Comment,Description,Quantity,PART NO,BRAND,PACKAGE,SUPPLIER,STOCK CODE,TYPE
+
+"D317, D319","Led","LED RED CLEAR 0805 SMD","2","","","SMD0805","tme.vn","HT17-2102SURC","SMD"
+"D318, D320","SS14","DIODE SCHOTTKY 40V 1A SMA","2","SS14","Toshiba","DO-214AC","tme.vn","SS14","SMD"
+"F309, F310","Fuse","Fuse","2","","","","","",""
+"P303","Header 2","Header, 2-Pin","1","","","","","",""
+"P304","Header 8X2","Header, 8-Pin, Dual row","1","","","","","",""
+"R317, R319","4.7K","RES SMD 4.7K OHM 1% 1/10W 0805","2","","","SMD0805","tme.vn","RM10JTN472","SMD"
+"R318, R320","100R","RES SMD 100 OHM 1% 1/10W 0805","2","","","SMD0805","tme.vn","RM10JTN681","SMD"
+"R345, R346, R347, R348, R349, R350","100K","RES SMD 10K OHM 5% 1/4W 1206","6","","","SMD1206","banlinhkien.com","","SMD"
+"RL301, RL302","Relay SPDT","Relay SPDT","2","","","","","",""
+"RL303, RL304","SLA-xxVDC-SL-C","SLA-xxVDC-SL-C","2","","","","","",""
+"S301, S302","TA20-100","","2","","","","","",""
+"S309","TA12-200","CURR SENSE 1:2000 5A T/H","1","TA12-200","YHDC","","CHINA","","TH"
+"S310","NA","CURR SENSE 1:2000 5A T/H","1","TA12-200","YHDC","","CHINA","","TH"
+"S311, S312","TA17","","2","","","","","",""
+"T301, T302, T303","R1.25-3.5S","R1.25-3.5S","3","","","","","",""
