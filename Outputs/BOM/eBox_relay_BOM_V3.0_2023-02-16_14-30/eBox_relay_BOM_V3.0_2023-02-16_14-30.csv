@@ -1,0 +1,15 @@
+Designator,Comment,Description,Quantity,PART NO,BRAND,PACKAGE,SUPPLIER,STOCK CODE,TYPE
+
+"C301, C302","C","Capacitor non-pol","2","","","","","",""
+"C303, C304","C","Capacitor non-pol","2","","","","","",""
+"D301, D303","Led","LED GREEN DIFFUSED 3MM ROUND T/H","2","","","SMD0805","tme.vn","HT17-2102SURC","SMD"
+"D302, D304","SS14","DIODE SCHOTTKY 40V 1A SMA","2","SS14","Toshiba","DO-214AC","tme.vn","SS14","SMD"
+"F301, F302","Fuse","Fuse","2","","","","","",""
+"P301","Header 8X2","Header, 8-Pin, Dual row","1","","","","","",""
+"R301, R302, R303, R307, R308, R309","100K","RES SMD 10K OHM 5% 1/4W 1206","6","","","SMD1206","banlinhkien.com","","SMD"
+"R304, R310","4.7K","RES SMD 4.7K OHM 1% 1/10W 0805","2","","","SMD0805","tme.vn","RM10JTN472","SMD"
+"R305, R312","100R","RES SMD 100 OHM 1% 1/10W 0805","2","","","SMD0805","tme.vn","RM10JTN681","SMD"
+"R306, R311","R","Resistor","2","","","","","",""
+"RL301, RL302","SLA-xxVDC-SL-C","SLA-xxVDC-SL-C","2","","","","","",""
+"S301, S303","TA20-100","","2","","","","","",""
+"S302, S304","TA17","","2","","","","","",""
