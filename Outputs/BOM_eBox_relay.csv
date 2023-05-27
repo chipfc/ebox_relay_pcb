@@ -1,0 +1,16 @@
+Designator,Comment,Description,Footprint,Quantity
+
+"C301, C302","C","Capacitor non-pol","CAP Ceramic/W300","2"
+"C303, C304","C","Capacitor non-pol","CAP Ceramic/W550","2"
+"D301, D303","Led","LED GREEN DIFFUSED 3MM ROUND T/H","LED 3MM - green","2"
+"D302, D304","SS14","DIODE SCHOTTKY 40V 1A SMA","DO-214AC (SMA) L","2"
+"F301, F302","Fuse","Fuse","FUSE 4 DIP 0630","2"
+"M301","EBOX-RELAY-02","EBOX-RELAY-02","EBOX-RELAY-02-90-noscrew","1"
+"P301","Header 8X2","Header, 8-Pin, Dual row","HDR2X8","1"
+"R301, R302, R303, R307, R308, R309","100K","RES SMD 10K OHM 5% 1/4W 1206","R 1206","6"
+"R304, R310","4.7K","RES SMD 4.7K OHM 1% 1/10W 0805","R 0603","2"
+"R305, R312","100R","RES SMD 100 OHM 1% 1/10W 0805","R 0805","2"
+"R306, R311","R","Resistor","R 1W","2"
+"RL301, RL302","SLA-xxVDC-SL-C","SLA-xxVDC-SL-C","RL_SPDT_30A","2"
+"S301, S303","TA20-100","","TA20-100","2"
+"S302, S304","TA17","","TA17","2"

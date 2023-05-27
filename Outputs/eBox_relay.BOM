@@ -1,0 +1,20 @@
+Bill of Material for 
+On 5/27/2023 at 2:03:14 PM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 100K                R 1206           6    R301, R302, R303, R307, R308 RES SMD 10K OHM 5% 1/4W 1206 
+                                           R309
+ 33R                 R 0805           2    R305, R312                   RES SMD 100 OHM 1% 1/10W 0805 
+ 4.7K                R 0603           2    R304, R310                   RES SMD 4.7K OHM 1% 1/10W 0805 
+ C                   CAP Ceramic/W300    2    C301, C302                   Capacitor non-pol    
+ C                   CAP Ceramic/W550    2    C303, C304                   Capacitor non-pol    
+ EBOX-RELAY-02       EBOX-RELAY-02-90-noscrew    1    M301                         EBOX-RELAY-02        
+ Fuse                FUSE 4 DIP 0630    2    F301, F302                   Fuse                 
+ Header 8X2          HDR2X8           1    P301                         Header, 8-Pin, Dual row 
+ Led                 LED 3MM - green    2    D301, D303                   LED GREEN DIFFUSED 3MM ROUND T/H 
+ R                   R 1W             2    R306, R311                   Resistor             
+ SLA-xxVDC-SL-C      RL_SPDT_30A      2    RL301, RL302                 SLA-xxVDC-SL-C       
+ SS14                DO-214AC (SMA) L    2    D302, D304                   DIODE SCHOTTKY 40V 1A SMA 
+ TA17                TA17             2    S302, S304                                        
+ TA20-100            TA20-100         2    S301, S303                                        
