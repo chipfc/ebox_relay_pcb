@@ -1,0 +1,43 @@
+Altium Designer Pick and Place Locations
+C:\Users\User\Desktop\ebox_relay_pcb\Outputs\Pick Place\eBox_relay_PnP_V3.0_2023-09-01_05-50\eBox_relay_PnP_V3.0_2023-09-01_05-50.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       01/09/23
+Time:       05:50
+Revision:   633124017b3b816767ce4e0d80c2a541a55d2691
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"F302","Fuse","TopLayer","FUSE_4_DIP_0630","27,0000","57,7500","90","Fuse"
+"F301","Fuse","TopLayer","FUSE_4_DIP_0630","59,0000","57,7500","90","Fuse"
+"M301","EBOX-RELAY-02","TopLayer","EBOX-RELAY-02-90-noscrew","33,7433","99,4900","90","EBOX-RELAY-02"
+"S301","TA20-100","TopLayer","TA20-100","49,2501","83,7500","0",""
+"D301","Led","TopLayer","LED_3MM_-_green","55,6260","94,5625","90","LED GREEN DIFFUSED 3MM ROUND T/H"
+"D302","SS14","BottomLayer","DO-214AC_(SMA)_L","56,0001","32,7500","270","DIODE SCHOTTKY 40V 1A SMA"
+"D303","Led","TopLayer","LED_3MM_-_green","10,0350","94,6250","90","LED GREEN DIFFUSED 3MM ROUND T/H"
+"D304","SS14","BottomLayer","DO-214AC_(SMA)_L","23,2501","32,7500","270","DIODE SCHOTTKY 40V 1A SMA"
+"R304","4.7K","BottomLayer","R_0603","52,6200","93,3550","360","RES SMD 4.7K OHM 1% 1/10W 0805"
+"R305","33R","BottomLayer","R_0805","49,2501","86,7500","360","RES SMD 100 OHM 1% 1/10W 0805"
+"R310","4.7K","BottomLayer","R_0603","13,7160","93,3500","180","RES SMD 4.7K OHM 1% 1/10W 0805"
+"R312","33R","BottomLayer","R_0805","16,5001","86,7500","360","RES SMD 100 OHM 1% 1/10W 0805"
+"R301","100K","BottomLayer","R_1206","44,5001","33,7500","270","RES SMD 10K OHM 5% 1/4W 1206"
+"R302","100K","BottomLayer","R_1206","42,0000","33,7500","90","RES SMD 10K OHM 5% 1/4W 1206"
+"R303","100K","BottomLayer","R_1206","39,5000","33,7500","270","RES SMD 10K OHM 5% 1/4W 1206"
+"R307","100K","BottomLayer","R_1206","14,5000","34,2500","270","RES SMD 10K OHM 5% 1/4W 1206"
+"R308","100K","BottomLayer","R_1206","12,0000","34,2500","90","RES SMD 10K OHM 5% 1/4W 1206"
+"R309","100K","BottomLayer","R_1206","9,5000","34,2500","270","RES SMD 10K OHM 5% 1/4W 1206"
+"S302","TA17","TopLayer","TA17","49,2501","81,7500","180",""
+"S304","TA17","TopLayer","TA17","16,2501","81,7500","180",""
+"S303","TA20-100","TopLayer","TA20-100","16,2501","83,7500","0",""
+"RL301","SLA-xxVDC-SL-C","TopLayer","RL_SPDT_30A","48,8501","32,7500","90","SLA-xxVDC-SL-C"
+"RL302","SLA-xxVDC-SL-C","TopLayer","RL_SPDT_30A","15,8501","32,7500","90","SLA-xxVDC-SL-C"
+"C301","C","TopLayer","CAP_Ceramic/W300","60,0600","2,2500","360","Capacitor non-pol"
+"C302","C","TopLayer","CAP_Ceramic/W300","28,8100","2,5000","180","Capacitor non-pol"
+"P301","Header 8X2","BottomLayer","HDR2X8","33,7433","98,2200","0","Header, 8-Pin, Dual row"
+"C303","C","TopLayer","CAP_Ceramic/W550","58,6500","12,9850","90","Capacitor non-pol"
+"C304","C","TopLayer","CAP_Ceramic/W550","29,3500","12,9850","90","Capacitor non-pol"
+"R306","R","TopLayer","R_1W","64,0000","12,6200","270","Resistor"
+"R311","R","TopLayer","R_1W","24,0000","12,3700","270","Resistor"
