@@ -122,6 +122,31 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document6]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Outputs\Pick Place\eBox_relay_PnP_V3.0_2023-09-01_05-50\eBox_relay_PnP_V3.0_2023-09-01_05-50.csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Outputs\Pick Place\eBox_relay_PnP_V3.0_2023-09-01_05-50\eBox_relay_PnP_V3.0_2023-09-01_05-50.txt
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Hash
 Value=JD3SRPCM
@@ -288,7 +313,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Generic / Text Only
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
